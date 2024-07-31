@@ -25,13 +25,6 @@ if __name__ == "__main__":
     Internet_Dox_Title = "Totem PRO"
     set_title(Internet_Dox_Title)
 os.system("cls")
-a=input(colored(f"[!] Введите ключ:", "green"))
-if a!=xuina:
-	print(colored(f"[!] Ключ неверный ", 'red'))
-
-	exit()
-else:
-	print(colored(f"[!] Ключ верный. В случае использование его на другом устройстве он станет недействителен", 'red'))
 
     
 intro = (
